@@ -4,6 +4,7 @@
 
 ## FUTURE FEATURES
 1. add an addition or recommendation according to the category the food belongs, to the food items added to cart either on food item details screen
+* Example a chips mayai food details page can have a recommendation addition to a fried chicken, a cocacola or a juice, and the user can add them to cart directly from the food details page
 
 1. remove old food items in the firebase console
 

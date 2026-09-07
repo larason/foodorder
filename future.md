@@ -3,6 +3,8 @@
 # TODOS
 
 ## FUTURE FEATURES
+1. redesign the cart details and replace the cartbottom sheet to a full screen new dedicated cart details screen with a checkout button and a clear cart button, and add a recommendation section to the cart details screen to add more items to the cart(advertised items).
+
 1. add an addition or recommendation according to the category the food belongs, to the food items added to cart either on food item details screen
 * Example a chips mayai food details page can have a recommendation addition to a fried chicken, a cocacola or a juice, and the user can add them to cart directly from the food details page
 

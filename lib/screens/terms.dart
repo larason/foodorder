@@ -35,7 +35,7 @@ Last Updated: Sept 9, 2026
 
 Welcome to Campus Bite
 These Terms govern your use of the Campus Bite
- mobile application. By accessing or using our App Campus Bite or website at foodapp.larason.space, you agree to be bound by these terms.
+mobile application. By accessing or using our App Campus Bite or website at foodapp.larason.space, you agree to be bound by these terms.
 
 1. Eligibility and Account Registration
 Target Audience: The App is intended primarily for university students, faculty, and staff.

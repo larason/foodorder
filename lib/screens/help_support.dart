@@ -44,7 +44,7 @@ class SupportScreen extends StatelessWidget {
               ),
               ListTile(
                 leading: const Icon(Icons.mail_outline),
-                title: const Text('Contact us'),
+                title: const Text('Report an issue'),
                 trailing: const Icon(Icons.chevron_right),
                 onTap: () => context.push('/support/contact'),
               ),

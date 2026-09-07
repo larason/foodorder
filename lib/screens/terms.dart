@@ -38,55 +38,61 @@ These Terms govern your use of the Campus Bite
  mobile application. By accessing or using our App Campus Bite or website at foodapp.larason.space, you agree to be bound by these terms.
 
 1. Eligibility and Account Registration
-• Target Audience: The App is intended primarily for university students, faculty, and staff.
-• Account Creation: You must provide accurate, current, and complete information (e.g., university email) during registration(We respect your confidentiality).
-• Account Security: You are responsible for safeguarding your password and for all activities under your account.
+Target Audience: The App is intended primarily for university students, faculty, and staff.
+Account Creation: You must provide accurate, current, and complete information (e.g., university email) during registration(We respect your confidentiality).
+Account Security: You are responsible for safeguarding your password and for all activities under your account.
 
-2. Pickup & Collection Policy (Reducing Food Waste)
-• In alignment with cafeteria administrative guidelines, uncollected food represents material loss. Users agree to collect their food within the notified pickup window, calculated from their current distance to the cafe, after receiving the "Ready for Collection" status.
-• If an order is not collected by the end of the pickup window and grace period, it is recorded as a no-show and you are notified. Missing a pickup is not a suspension or penalty: your pickup reliability is informational only.
+2. Food pricing and availability
+Menu Items: Prices and availability of menu items are subject to change without notice. The App does not guarantee the availability of any specific item at any given time.
+Special Offers: Any discounts or promotions are subject to the terms and conditions of the respective vendor and may be limited in duration or quantity.
+Food Description: The App provides descriptions of food items, You are responsible for reviewing these descriptions and making informed choices based on your dietary needs and preferences. Also it is advised to read the food item descriptions before placing them to cart,
+this is to avoid any misinterpretation and disappointment when you pick up your order.
 
-3. Data privacy and Protection.
-• The app will request your device location While Using App location permission only after you press “Place Order”. This is used only to calculate the distance between the cafe and the user.
-• CampusBite uses your location once per order to estimate the pickup time. It doesnot store the location but rather the distance between the device and the cafe needed for that order and does not track your movement or maintain any kind of location data or history.
-• This data will be used to calculate the estimated time for pickup when order is ready to be fair and avoid delays. Consider making sure your phone has the correct time settings to reduce inaccuracies.
-• If you ever want to redact your data and information, no need to worry just contact the support team. We care your privacy.
+3. Pickup & Collection Policy (Reducing Food Waste)
+In alignment with cafeteria administrative guidelines, uncollected food represents material loss. Users agree to collect their food within the notified pickup window, calculated from their current distance to the cafe, after receiving the "Ready for Collection" status.
+If an order is not collected by the end of the pickup window and grace period, it is recorded as a no-show and you are notified. Missing a pickup is NOT a suspension or penalty: your pickup reliability is informational only.
 
-4. Ordering and Payments
-• Placing Orders: Orders made through the App are subject to acceptance by the vendor.
-• Pricing: Prices include food, taxes, delivery fees, and platform fees displayed at the app. Prices may change without notice.
-• Allergies: Campus Bite is a digital platform and cannot guarantee food is free of allergens. You must communicate severe dietary restrictions directly to the vendor.
+4. Data privacy and Protection.
+The app will request your device location While Using App location permission only after you press “Place Order”. This is used only to calculate the distance between the cafe and the user.
+CampusBite uses your location once per order to estimate the pickup time. It doesnot store the location but rather the distance between the device and the cafe needed for that order and does not track your movement or maintain any kind of location data or history.
+This data will be used to calculate the estimated time for pickup when order is ready to be fair and avoid delays. Consider making sure your phone has the correct time settings to reduce inaccuracies.
+If you ever want to redact your data and information, no need to worry just contact the support team. We care your privacy.
 
-5. Delivery and Pick-up
-• Currently we do not offer any delivery services, This is a self pick based app.
-• Food preparation Times: Estimated preparation times are provided for convenience and are not guaranteed.
+5. Ordering and Payments
+Placing Orders: Orders made through the App are subject to acceptance by the vendor.
+Pricing: Prices include food, taxes, delivery fees, and platform fees displayed at the app. Prices may change without notice.
+Allergies: Campus Bite is a digital platform and cannot guarantee food is free of allergens. You must communicate severe dietary restrictions directly to the vendor.
 
-6. Cancellations and Refunds
-• Cancellations: You may cancel an order within 2 minutes of placing it, before the cafe accepts it. After the cancellation window expires, orders cannot be cancelled by you.
-• Refund Policy: Refund is subject to the corresponding ordered cafes rules.
+6. Delivery and Pick-up
+Currently we do not offer any delivery services, This is a self pick based app.
+Food preparation Times: Estimated preparation times are provided for convenience and are not guaranteed.
 
-7. User Conduct
+7. Cancellations and Refunds
+Cancellations: You may cancel an order within 2 minutes of placing it, before the cafe accepts it. After the cancellation window expires, orders cannot be cancelled by you.
+Refund Policy: Refund is subject to the corresponding ordered cafes rules.
+
+8. User Conduct
 You agree to use the application only for lawful purposes. You agree not to place fake orders, harass vendors, or attempt to hack the App's security.
 
-8. Pickup Reliability
+9. Pickup Reliability
 To help reduce food waste, the App measures how consistently you collect your orders on time and shows the result in your profile as a pickup reliability score:
-• Reliability is informational only. It does not restrict ordering, suspend your account, or impose penalties.
-• New users and users with limited history see a neutral "building your record" state — never a poor rating.
-• You can always view your own reliability; other users' reliability is never shown to you.
+Reliability is informational only. It does not restrict ordering, suspend your account, or impose penalties.
+New users and users with limited history see a neutral "building your record" state — never a poor rating.
+You can always view your own reliability; other users' reliability is never shown to you.
 
-9. Intellectual Property
+10. Intellectual Property
 All content, features, and functionality of the application are the exclusive property of the application owner(s). Refer the License.
 
-10. Limitation of Liability
+11. Limitation of Liability
 The application owner(s) shall not be liable for any damages arising from the use of the application, including issues regarding the quality or safety of the food prepared by third-party vendors.
 
-11. Changes to Terms
+12. Changes to Terms
 The application owner reserves the right to modify these terms at any time. Continued use after changes constitutes your acceptance.
 
-12. Governing Law
+13. Governing Law
 These terms shall be governed by and construed in accordance with the laws of the jurisdiction in which the application owner(s) operates.
 
-13. Contact Us
+14. Contact Us
 For support, see the Help & support page or email directly lembotor6@gmail.com''',
                   style: TextStyle(
                     fontSize: 14.0,

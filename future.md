@@ -2,6 +2,40 @@
 
 # TODOS
 
+## FUTURE FEATURES
+1. add an addition or recommendation according to the category the food belongs, to the food items added to cart either on food item details screen
+
+1. remove old food items in the firebase console
+
+1. add explicit description for the corresponding food item (even add swahili translation). to explain how the food is priced and at what quantity per the food image representation which is not neccessarilly equal.
+
+1. add preorder meals e.g in morning one can pre order lunch or dinner
+
+1. apply ai to view and monitor images uploaded to be for food only no harm or dangerous materials
+
+2. Add a 'for' field on every food items which  is for univerisity with a value of "for university"
+* and food items for outer restaurants will have a value of "for restaurants"
+
+3. use n8n to automate creating newsletters for furnitures to subscribers in mailchimp
+
+5. add a search to view if the written cafe is already in database to avoid duplication
+
+6. create a new branch to add restaurants other than university ones
+* Their menu items will be able to link to whatsapp easily
+* Or start a messaging platform inside the app
+
+5. Make the student app and admin app choose which university there in and ensure that the FOOD ITEM and CAFE(add a field to specify which university there in) in university A is not shown or mixed into university B, including their orders.
+* Also add a university collection to list all available universities in which the app serve
+
+7. Performance Analytics: Daily/weekly revenue, top-selling dishes, peak order hours, average prep time, customer rating trends.
+
+8. add products for off_campus food items. the section field will be changed to off_campus, cafe field to offcampus, and the location field will be added to indicate the location of the offcampus cafes.
+// Row for deals outside campus cafes on home screnn
+* CardRowItems(title: "Deals outside campus cafes",items: offCampus,),
+// If cafe is 'offcampus', show 'OFF-CAMPUS', otherwise show 'CAFE(X)'
+* item.cafe.toLowerCase() == 'offcampus' ? '${item.rating} • OFFCAMPUS' : '${item.rating} • CAFE(${item.cafe})',
+
+
 ---
 
 ## FIXES NEEDED
@@ -33,34 +67,3 @@
 16. remove the overlay in desktop **checked**
 
 ----
-
-## FUTURE FEATURES
-1. remove old food items in the firebase console
-
-1. add explicit description for the corresponding food item (even add swahili translation). to explain how the food is priced and at what quantity per the food image representation which is not neccessarilly equal.
-
-1. add preorder meals e.g in morning one can pre order lunch or dinner
-
-1. apply ai to view and monitor images uploaded to be for food only no harm or dangerous materials
-
-2. Add a 'for' field on every food items which  is for univerisity with a value of "for university"
-* and food items for outer restaurants will have a value of "for restaurants"
-
-3. use n8n to automate creating newsletters for furnitures to subscribers in mailchimp
-
-5. add a search to view if the written cafe is already in database to avoid duplication
-
-6. create a new branch to add restaurants other than university ones
-* Their menu items will be able to link to whatsapp easily
-* Or start a messaging platform inside the app
-
-5. Make the student app and admin app choose which university there in and ensure that the FOOD ITEM and CAFE(add a field to specify which university there in) in university A is not shown or mixed into university B, including their orders.
-* Also add a university collection to list all available universities in which the app serve
-
-7. Performance Analytics: Daily/weekly revenue, top-selling dishes, peak order hours, average prep time, customer rating trends.
-
-8. add products for off_campus food items. the section field will be changed to off_campus, cafe field to offcampus, and the location field will be added to indicate the location of the offcampus cafes.
-// Row for deals outside campus cafes on home screnn
-* CardRowItems(title: "Deals outside campus cafes",items: offCampus,),
-// If cafe is 'offcampus', show 'OFF-CAMPUS', otherwise show 'CAFE(X)'
-* item.cafe.toLowerCase() == 'offcampus' ? '${item.rating} • OFFCAMPUS' : '${item.rating} • CAFE(${item.cafe})',

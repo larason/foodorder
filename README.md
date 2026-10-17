@@ -388,6 +388,16 @@ See the [Project official Documentation](docs/DOCUMENTATION.md) for more Instruc
 
 ---
 
+## Top contributors
+
+<a href="https://github.com/larason/foodorder/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=larason/foodorder" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+---
+
 # License
 
 This project is licensed under the Apache 2.0 License terms specified in the [LICENSE](LICENSE) and [NOTICE](NOTICE) files.
